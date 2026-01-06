@@ -1,0 +1,12 @@
+- date: 2022-12
+  custodian: owner
+  event: purchase
+
+- date: 2023-03
+  custodian: dealer
+  event: warranty_intake
+  location: Don Ringler Chevrolet, Temple TX
+
+- date: 2023-08
+  custodian: owner
+  event: return_to_owner
