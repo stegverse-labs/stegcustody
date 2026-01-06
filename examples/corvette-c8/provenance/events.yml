@@ -1,0 +1,10 @@
+- date: 2023-03
+  event: transmission_failure
+  location: I-35
+  evidence:
+    - tow_receipt
+    - owner_statement
+
+- date: 2023-08
+  event: transmission_service
+  notes: "Work covered under warranty; documentation under review"
