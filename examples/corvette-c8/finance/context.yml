@@ -1,0 +1,4 @@
+loss_of_use:
+  duration_months: 5
+  loaner_provided: false
+  notes: "Used for escalation context only"
